@@ -1,0 +1,10 @@
+
+
+#div4{
+	display: flex;
+	align-items: center;
+}
+
+#div4>img{
+	width: 33%;
+}

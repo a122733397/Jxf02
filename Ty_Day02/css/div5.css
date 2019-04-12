@@ -1,0 +1,32 @@
+
+
+#div5>#div5_01>img{
+	width: 100%;
+	
+}
+
+#font1{
+	 background: black;
+	 font-size: 1px ;
+	 color: white;
+	 margin-left: 70px;
+}
+#font2{
+	 background: orangered;
+	 font-size: 1px ;
+	 color: white;
+	
+}
+
+#div5_02{
+	margin-top: 10px;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	margin-left: 3px;
+	margin-right: 5px;
+} 
+ 
+#div5_02>img{
+	width: 23%;
+}

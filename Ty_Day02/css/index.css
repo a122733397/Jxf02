@@ -1,0 +1,14 @@
+
+ *{
+ 	margin: 0px;
+ }
+ 
+#div5_02{
+	margin-top: 10px;
+	display: flex;
+	align-items: center;
+} 
+ 
+#div5_02>img{
+	width: 25%;
+}
